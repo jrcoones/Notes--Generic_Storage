@@ -1,0 +1,10 @@
+set number
+set nowrap
+colorscheme pablo
+set nobackup
+set hlsearch
+set expandtab
+set autoindent
+set shiftwidth=2
+set tabstop=2
+set smarttab
