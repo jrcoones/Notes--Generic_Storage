@@ -1,0 +1,11 @@
+# GIT Aliases
+alias GS='git status'
+alias GC='git commit'
+alias GA='git add'
+alias GB='git branch'
+alias GCO='git checkout'
+alias GM='git merge'
+alias GD='git diff'
+alias GPh='git push'
+alias GPl='git pull'
+alias GG='git grep'
